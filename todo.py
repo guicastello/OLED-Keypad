@@ -99,8 +99,8 @@ def mailcheck():
 
  # The following three variables must be customized for this
  # script to work
- USERNAME = 'wc.castle67@gmail.com'
- PASSWORD = 'ujgtvywqyuvknmrj'
+ USERNAME = ''
+ PASSWORD = ''
 
  # my unread messages never goes to zero, use this to override
 
